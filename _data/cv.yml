@@ -2,22 +2,22 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Pedro Costa
     - name: Date of Birth
-      value: 14th March 1879
+      value: 13th January 1987
     - name: Languages
-      value: English, German
+      value: Portuguese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Integrated Master’s in Information Systems Engineering and Management
+      institution: Universidade do Minho, Guimarães, Portugal
+      year: 2022
       description:
-        - Description 1.
+        - The role of information systems engineers and managers is to use Information Technologies (IT) and their applications for the benefit of organizations. IT artifacts are a means to improve the functioning of organizations. The main professional activities available to graduates in Information Systems Engineering and Management (ISEM) include organizational interventions related to IT adoption; management of organizational technologies and information systems; work and organizational process engineering; and organizational knowledge management. These graduates also possess technological implementation skills that allow them to engage in professional activities related to the development of software applications or the establishment of the organization’s IT infrastructure.
         - Description 2.
-        - title: Description 3.
+        - title: The professional activities of graduates in Information Systems Engineering and Management may be carried out in organizations of any size and across all sectors of the economy. They are also well-suited for roles in management and IT consulting firms. Furthermore, this professional profile is particularly relevant within small and medium-sized enterprises (SMEs), where graduates contribute both advanced IT expertise and organizational improvement capabilities.
           contents:
             - Sub-description 1.
             - Sub-description 2.
